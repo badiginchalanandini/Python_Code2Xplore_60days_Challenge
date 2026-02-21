@@ -28,3 +28,4 @@ for mark in marks:
     print(mark, "→", category)
 print("Total Valid Students:", valid_count)
 print("Total Failed Students:", fail_count)
+
